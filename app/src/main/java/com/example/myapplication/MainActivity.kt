@@ -5,7 +5,6 @@ import android.os.Bundle
 import android.view.View
 import android.widget.EditText
 import android.content.Intent
-import android.provider.AlarmClock.EXTRA_MESSAGE
 
 const val EXTRA_MESSAGE = "com.example.MyApplication.MESSAGE"
 
